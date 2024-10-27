@@ -1,3 +1,4 @@
+![Логотип бота](https://raw.githubusercontent.com/8alexl/Priyatel_Match_Bot/refs/heads/main/logo.jpg)
 ---
 # Priyatel Match Bot
 
