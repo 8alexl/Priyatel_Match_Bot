@@ -1,6 +1,6 @@
 ![Логотип бота](https://raw.githubusercontent.com/8alexl/Priyatel_Match_Bot/refs/heads/main/logo.jpg)
 ---
-# Priyatel Match Bot
+# Priyatel' match bot
 
 Этот Telegram-бот предназначен для поиска и общения пользователей на основе их интересов. Пользователи могут регистрироваться, указывая свою информацию и интересы, а затем находить собеседников с похожими увлечениями и начинать переписку.
 
